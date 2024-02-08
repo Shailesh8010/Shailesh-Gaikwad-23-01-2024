@@ -1,0 +1,88 @@
+
+[
+      {
+        "id": "1",
+        "title": "Dharamsala",
+        "imagePath": "/Images/n6.web.256.256.jpeg",
+        "description": "Often referred to as the cultural capital of Kerala, Thrissur is a centre point of energetic festivities. This city hosts its own film festival, the Thrissur International Film Festival, among many other cultural events throughout the year. It invites tourists for its rich culture and heritage as it carries a strong influence of Indian, European and Arab sources from medieval and colonial timesThrissur is most popular for a form of body art that is practiced here. It is known as Puli Kali or Kaduvakali and is mostly showcased during the festival of Onam. Another festival to look out for is Thrissur Pooram, when decorated elephants march through the city to the Vadakkunnathan Temple. A visit to the Indian coffee house that was established in 1958 is also worth the while as it is called the cultural hub of the city",
+        "name":"Dharmashala"
+      },
+      {
+        "id": "2",
+        "title": "Munnar",
+        "imagePath": "/Images/n5.web.256.256.jpeg",
+        "description": "It’s huge, almost gigantic! That is the first reaction most people have as they speed down the winding road leading to the towering Statue of Unity (SoU). A long bridge connects the mainland to the Sadhu Bet Island, on which the statue stands. Silhouetted against the surrounding Vindhya and Satpura mountain ranges, the colossal statue almost seems to pierce the skyline.The legacy of Sardar Vallabhbhai Patel, India’s Iron Man, lives on in the form of this massive statue dominating the Narmada river basin. He towers over the landscape, as if, keeping an eye over the land he helped become independent. Standing at a height of 182 m, the Statue of Unity, is the tallest in the world. It depicts Sardar Patel in a walking pose, clad in his characteristic simple attire. About 100 times the height of a five-and-a-half-ft-tall person, one can see the statue from as far away as 8 km. The SoU was inaugurated on October 31, 2018, by Prime Minister Narendra Modi to commemorate Patel’s 143rd birth anniversary.The statue has been built on a star-shaped geometric base that covers the entire Sadhu Hill. It has a viewing gallery at 135 m, at the statue’s chest level, that can be reached via two high-speed elevators. The gateway to the elevators is through an exhibition gallery, in which you can marvel at a model of the statue and an elaborate blueprint, among other exhibits. The elevators travel 150 m in half a minute and can carry 26 people at one time. From the viewing gallery, reinforced with steel grids, you can take in the breathtaking views of the surroundings and of the Sardar Sarovar reservoir at a distance. Interestingly, it’s not just the statue that throws light on Patel’s life and achievements, but also a spectacular laser show",
+        "name":"Munnar"
+        
+      },
+      {
+        "id": "3",
+        "title": "Wayanad",
+        "imagePath": "/Images/n4.web.256.256.jpeg",
+        "description": "Colonial-era charm, a landscape of rolling green and pristine mountains come together to bring to life the city of Shillong, the capital of Meghalaya. Its vistas are accentuated by pine trees, streams, waterfalls and lush green parks. With a picturesque location about 1,525 m above sea level, on a plateau surrounded by hills, Shillong makes for a pleasant tourist destination throughout the year. The plateau is bound by Umiam to the north, the Diengiei Hills to the northwest and the hills of the Assam Valley on the northeast.Shillong is frequently referred to as the 'Scotland of the East' for its similarity to the Scottish highlands in terms of topography and greenery. Along with covers of tall pine conifers and pineapple shrubs, the city also boasts trekking trails and natural parks aplenty. A natural wonder that has given the city a spot on the world map is the living root bridges. Alive and growing and capable of carrying 50 people at a time, they are a unique experience.Shillong is a city of simple yet unforgettable experiences. From staying in a treehouse to indulging in thrilling activities like trekking, camping, river rafting, rappelling, kayaking, fishing and caving, Shillong carves a niche for itself in the hearts of visitors. Its quaintness and serenity transform into liveliness and spirited festivities at the time of Christmas. With the melodious tunes of Gospel music in the backdrop, the city, laden with snow, resembles a picturesque postcard.",
+        "name":"Wayanad"
+      },
+      {
+        "id": "4",
+        "title": "Thrissur",
+        "imagePath": "/Images/n3.web.256.256.jpeg",
+        "description": "A quaint hill town, perched against the backdrop of Doddabetta (2,637 m), the highest peak in the Nilgiris, Ootacamund, in Tamil Nadu, is lined with traditional and colonial-style buildings, which make it the perfect fusion of the new and the old. Clear blue skies, lush green hills, deep verdant valleys and pleasant weather culminate to make this gem of the Nilgiris (Blue Mountains) one of the most attractive tourist destinations in South India. Peppered with coffee and tea plantations, forests of eucalyptus, conifers and pines, and a thick cover of shola trees, Ootacamund is the perfect getaway for nature lovers. Such is the renown of its beauty that it is popularly referred to as the 'Queen of Hill Stations' and the 'Switzerland of India'.",
+        "name":"Thrissur"
+      },
+      {
+        "id": "5",
+        "title": "Ooty",
+        "imagePath": "/Images/n2.web.256.256.jpeg",
+        "description": "Often referred to as the cultural capital of Kerala, Thrissur is a centre point of energetic festivities. This city hosts its own film festival, the Thrissur International Film Festival, among many other cultural events throughout the year. It invites tourists for its rich culture and heritage as it carries a strong influence of Indian, European and Arab sources from medieval and colonial timesThrissur is most popular for a form of body art that is practiced here. It is known as Puli Kali or Kaduvakali and is mostly showcased during the festival of Onam. Another festival to look out for is Thrissur Pooram, when decorated elephants march through the city to the Vadakkunnathan Temple. A visit to the Indian coffee house that was established in 1958 is also worth the while as it is called the cultural hub of the city",
+        "name":"Ooty"
+      },
+      {
+        "id": "6",
+        "title": "Statue Of Unity",
+        "imagePath": "/Images/n1.web.256.256.jpeg",
+        "description": "It’s huge, almost gigantic! That is the first reaction most people have as they speed down the winding road leading to the towering Statue of Unity (SoU). A long bridge connects the mainland to the Sadhu Bet Island, on which the statue stands. Silhouetted against the surrounding Vindhya and Satpura mountain ranges, the colossal statue almost seems to pierce the skyline.The legacy of Sardar Vallabhbhai Patel, India’s Iron Man, lives on in the form of this massive statue dominating the Narmada river basin. He towers over the landscape, as if, keeping an eye over the land he helped become independent. Standing at a height of 182 m, the Statue of Unity, is the tallest in the world. It depicts Sardar Patel in a walking pose, clad in his characteristic simple attire. About 100 times the height of a five-and-a-half-ft-tall person, one can see the statue from as far away as 8 km. The SoU was inaugurated on October 31, 2018, by Prime Minister Narendra Modi to commemorate Patel’s 143rd birth anniversary.The statue has been built on a star-shaped geometric base that covers the entire Sadhu Hill. It has a viewing gallery at 135 m, at the statue’s chest level, that can be reached via two high-speed elevators. The gateway to the elevators is through an exhibition gallery, in which you can marvel at a model of the statue and an elaborate blueprint, among other exhibits. The elevators travel 150 m in half a minute and can carry 26 people at one time. From the viewing gallery, reinforced with steel grids, you can take in the breathtaking views of the surroundings and of the Sardar Sarovar reservoir at a distance. Interestingly, it’s not just the statue that throws light on Patel’s life and achievements, but also a spectacular laser show",
+        "name":"Statue Of Unity"
+      },
+      {
+        "id": "7",
+        "title": "Malvan",
+        "imagePath": "/Images/n6.web.256.256.jpeg",
+        "description": "Colonial-era charm, a landscape of rolling green and pristine mountains come together to bring to life the city of Shillong, the capital of Meghalaya. Its vistas are accentuated by pine trees, streams, waterfalls and lush green parks. With a picturesque location about 1,525 m above sea level, on a plateau surrounded by hills, Shillong makes for a pleasant tourist destination throughout the year. The plateau is bound by Umiam to the north, the Diengiei Hills to the northwest and the hills of the Assam Valley on the northeast.Shillong is frequently referred to as the 'Scotland of the East' for its similarity to the Scottish highlands in terms of topography and greenery. Along with covers of tall pine conifers and pineapple shrubs, the city also boasts trekking trails and natural parks aplenty. A natural wonder that has given the city a spot on the world map is the living root bridges. Alive and growing and capable of carrying 50 people at a time, they are a unique experience.Shillong is a city of simple yet unforgettable experiences. From staying in a treehouse to indulging in thrilling activities like trekking, camping, river rafting, rappelling, kayaking, fishing and caving, Shillong carves a niche for itself in the hearts of visitors. Its quaintness and serenity transform into liveliness and spirited festivities at the time of Christmas. With the melodious tunes of Gospel music in the backdrop, the city, laden with snow, resembles a picturesque postcard.",
+        "name":"Malvan"
+      },
+      {
+        "id": "8",
+        "title": "Manali",
+        "imagePath": "/Images/n5.web.256.256.jpeg",
+        "description": "A quaint hill town, perched against the backdrop of Doddabetta (2,637 m), the highest peak in the Nilgiris, Ootacamund, in Tamil Nadu, is lined with traditional and colonial-style buildings, which make it the perfect fusion of the new and the old. Clear blue skies, lush green hills, deep verdant valleys and pleasant weather culminate to make this gem of the Nilgiris (Blue Mountains) one of the most attractive tourist destinations in South India. Peppered with coffee and tea plantations, forests of eucalyptus, conifers and pines, and a thick cover of shola trees, Ootacamund is the perfect getaway for nature lovers. Such is the renown of its beauty that it is popularly referred to as the 'Queen of Hill Stations' and the 'Switzerland of India'.",
+        "name":"Manali"
+      },
+      {
+        "id": "9",
+        "title": "Haridwar",
+        "imagePath": "/Images/n4.web.256.256.jpeg",
+        "description": "Colonial-era charm, a landscape of rolling green and pristine mountains come together to bring to life the city of Shillong, the capital of Meghalaya. Its vistas are accentuated by pine trees, streams, waterfalls and lush green parks. With a picturesque location about 1,525 m above sea level, on a plateau surrounded by hills, Shillong makes for a pleasant tourist destination throughout the year. The plateau is bound by Umiam to the north, the Diengiei Hills to the northwest and the hills of the Assam Valley on the northeast.",
+        "name":"Haridwar"
+      },
+      {
+        "id": "10",
+        "title": "Goa",
+        "imagePath": "/Images/n3.web.256.256.jpeg",
+        "description": "Constructed by engineering giant Larsen and Toubro, SoU was built in a record time of 33 months. It is 177 ft taller than China’s Spring Temple Buddha statue (the second tallest in the world), which took 11 years to build. The SoU comprises two semi-joined, composite concrete cylindrical cores surrounded by a steel space frame to support the external cladding. The face of the statue is particularly noteworthy and 93-year-old sculptor Ram Sutar has made it to have a poised countenance. Patel’s head is held high with his arms at his side, and the leader is supposed to appear to be walking on water towards the Sardar Sarovar Dam, with his left leg placed slightly forward. It is said that figuring out the perfect posture for the statue was a challenge. The engineers scanned around 2,000 photographs, and consulted several historians to choose the final picture. Finally, a 2-dimensional image was converted into a 3-dimensional model.",
+        "name":"Goa"
+      },
+      {
+        "id": "11",
+        "title": "Lonavla",
+        "imagePath": "/Images/n2.web.256.256.jpeg",
+        "description": "Constructed by engineering giant Larsen and Toubro, SoU was built in a record time of 33 months. It is 177 ft taller than China’s Spring Temple Buddha statue (the second tallest in the world), which took 11 years to build. The SoU comprises two semi-joined, composite concrete cylindrical cores surrounded by a steel space frame to support the external cladding. The face of the statue is particularly noteworthy and 93-year-old sculptor Ram Sutar has made it to have a poised countenance. Patel’s head is held high with his arms at his side, and the leader is supposed to appear to be walking on water towards the Sardar Sarovar Dam, with his left leg placed slightly forward. It is said that figuring out the perfect posture for the statue was a challenge. The engineers scanned around 2,000 photographs, and consulted several historians to choose the final picture. Finally, a 2-dimensional image was converted into a 3-dimensional model.",
+        "name":"Lonavla"
+      },
+      {
+        "id": "12",
+        "title": "Mahabaleshwar",
+        "imagePath": "/Images/n1.web.256.256.jpeg",
+        "description": "Perched atop a rocky ridge, with snow-clad Dhauladhar mountains and rolling emerald valleys adding to its natural beauty, Dalhousie, in Himachal Pradesh, is a quaint hill town perfect for a relaxing holiday. Lined with tall pine and deodar trees and dotted with pristine lakes and waterfalls, Dalhousie mesmerises you with its natural bounty. No wonder this secluded town was a favourite summer retreat of the British before Independence! The town preserves many remnants from its past and various quaint churches are a testimony to the colonial era. Dalhousie was named after the then governor general of British India, Lord Dalhousie, in 1854. Sprawling colonial-era buildings that are liberally scattered throughout the town, are a testament to Dalhousie's Victorian charm. Its beauty is further complemented by River Ravi flowing close by. This hill station also offers amazing views of the snow-capped Pir Panjal mountain range. Pines, oaks, rhododendrons and a number of other types of trees cover the mountain slopes. An ideal place to unwind, the hill station is a treasure of ancient temples, art, handicrafts and a rich cultural heritage that has been preserved since the 6th century. As you soak in the natural and architectural beauty, don't forget to sample the delicacies the town has to offer. From chha ghosht to patande, there's a lot on offer.",
+        "name":"Mahabaleshwar"
+      }
+    ]
